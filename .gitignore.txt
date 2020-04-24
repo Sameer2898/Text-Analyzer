@@ -1,1 +1,2 @@
 db.sqlite3
+heroku config:set DISABLE_COLLECTSTATIC=1
